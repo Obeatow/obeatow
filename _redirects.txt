@@ -1,1 +1,1 @@
-https://obeatow.com/* https://www.obeatow.com/:splat 200
+https://obeatow.com/* https://www.obeatow.com/:splat 301
